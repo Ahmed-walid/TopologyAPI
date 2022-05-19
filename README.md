@@ -15,7 +15,7 @@ javaScript, as it supports OOP and deals easily with JSONs.
   2. Hit ```npm install``` in the command line to set up the environment.
   3. Hit ```npm start``` in the command line to run the main program.
 
-# How To Run Test:
+# How To Run Tests:
    Hit ```npm test``` in the command line in the project root level.
   
 
