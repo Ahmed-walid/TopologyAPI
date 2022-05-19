@@ -8,7 +8,7 @@ TopologyAPI is an API that manipulates Topologies and Provides the functionality
   6. Query about which devices are connected to a given netlist node in a given topology.
 
 # Programming Language:
-javaScript, as it supports OOP and deals easily with JSONs.
+JavaScript, as it supports OOP and deals easily with JSONs.
 
 # How to get started:
   1. install NodeJs.
