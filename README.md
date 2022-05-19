@@ -18,5 +18,5 @@ javaScript, as it supports OOP and deals easily with JSONs.
 # How To Run Tests:
    Hit ```npm test``` in the command line in the project root level.
   
+![image](https://user-images.githubusercontent.com/62077516/169396730-432febd4-e9a2-4751-b30b-d4be5231542d.png)
 
-  
